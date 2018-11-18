@@ -1,0 +1,23 @@
+﻿  sort.cpp
+sort.cpp(62): warning C4018: '<': signed/unsigned mismatch
+\\buad.bloomu.edu\student\usersdef\hsd77849\documents\cs 355\assignments\mattjoyceandharmandhillonhw3\mysort.h(24): warning C4018: '<': signed/unsigned mismatch
+  sort.cpp(74): note: see reference to function template instantiation 'void insertionsort<double>(std::vector<double,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+\\buad.bloomu.edu\student\usersdef\hsd77849\documents\cs 355\assignments\mattjoyceandharmandhillonhw3\mysort.h(40): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  sort.cpp(93): note: see reference to function template instantiation 'void shellsort<double>(std::vector<double,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=double
+          ]
+\\buad.bloomu.edu\student\usersdef\hsd77849\documents\cs 355\assignments\mattjoyceandharmandhillonhw3\mysort.h(44): warning C4018: '<': signed/unsigned mismatch
+\\buad.bloomu.edu\student\usersdef\hsd77849\documents\cs 355\assignments\mattjoyceandharmandhillonhw3\mysort.h(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  202 of 209 functions (96.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sorting.vcxproj -> \\buad.bloomu.edu\student\UsersDEF\hsd77849\Documents\CS 355\Assignments\mattJoyceAndHarmanDhillonHW3\Release\Sorting.exe
+  Sorting.vcxproj -> \\buad.bloomu.edu\student\UsersDEF\hsd77849\Documents\CS 355\Assignments\mattJoyceAndHarmanDhillonHW3\Release\Sorting.pdb (Full PDB)
